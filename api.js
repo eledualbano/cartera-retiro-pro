@@ -1,2 +1,0 @@
-const API_URL='https://script.google.com/macros/s/AKfycbz1Iukl9CmjWI0_ZGGs4Gl-XAioiTpCnB2Kq6b0FfXiPd1ODR79s6GZp8cwKm4nW-A-/exec';
-async function getData(){const r=await fetch(API_URL);return await r.json();}
